@@ -1,3 +1,5 @@
+> **Archived:** This one-off fork is no longer maintained. Its changes have been merged upstream; use [ryan112358/mbi](https://github.com/ryan112358/mbi).
+
 ## MBI: Marginal-Based Estimation and Inference
 **(with applications to differential privacy)**
 
@@ -14,5 +16,4 @@ Documentation can be found at
 [https://private-pgm.readthedocs.io/en/latest/](https://private-pgm.readthedocs.io/en/latest/)!
 
 Consider joining the [Google Differential Privacy community](https://join.slack.com/t/dp-open-source/shared_invite/zt-35hw483tz-nS5YOtGjxCHk3Ek7WiXvlg) in Slack.
-
 
